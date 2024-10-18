@@ -3,8 +3,7 @@
 I am a student-athlete at Tufts University. I am studying Computer Science!
 <!--
 **freestyledjokic/freestyledjokic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 <!-- Add more tools and languages as necessary -->
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/freestyledjokic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freestyledjokic&layout=compact)](https://github.com/freestyledjokic/github-readme-stats)
 
 ## GitHub Stats
-[![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/freestyledjokic/github-readme-stats)
+[![Andrej Djokic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freestyledjokic&show_icons=true&theme=radical)](https://github.com/freestyledjokic/github-readme-stats)
