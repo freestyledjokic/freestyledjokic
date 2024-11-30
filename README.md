@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on []()
 
-- 🌱 I’m currently learning **OWASP 10, XML and JSON**
+- 🌱 I’m currently learning **Stacks(the blockchain platform), Malware Analysis, MySQL/NOSQL**
 
 - 👨‍💻 All of my projects are available at [...](...)
 
