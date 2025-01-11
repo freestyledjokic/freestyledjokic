@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is Andrej Djokic</h1>
-<h3 align="center">I am a student-athlete at Tufts University. I study Computer Science with interest in Cybersecurity</h3>
+<h3 align="center">I am a student-athlete at Tufts University. I study Computer Science with an interest in Cybersecurity</h3>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freestyledjokic&label=Profile%20views&color=0e75b6&style=flat" alt="freestyledjokic" /> </p>
 -->
