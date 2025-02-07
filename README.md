@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freestyledjokic&label=Profile%20views&color=0e75b6&style=flat" alt="freestyledjokic" /> </p>
 -->
 
-- 🔭 I’m currently working on []()
+- 🔭 I’m currently working on [MITRE eCTF competition]()
 
-- 🌱 I’m currently learning **Stacks(the blockchain platform), Malware Analysis, MySQL/NOSQL**
+- 🌱 I’m currently learning **Embedded Security, Operational Semantics, Lean/Agile Software Development**
 
 - 👨‍💻 All of my projects are available at [...](...)
 
