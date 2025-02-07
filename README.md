@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freestyledjokic&label=Profile%20views&color=0e75b6&style=flat" alt="freestyledjokic" /> </p>
 -->
 
-- 🔭 I’m currently working on [MITRE eCTF competition]()
+- 🔭 I’m currently working on [](MITRE eCTF competition)
 
 - 🌱 I’m currently learning **Embedded Security, Operational Semantics, Lean/Agile Software Development**
 
