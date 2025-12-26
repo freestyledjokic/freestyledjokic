@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freestyledjokic&label=Profile%20views&color=0e75b6&style=flat" alt="freestyledjokic" /> </p>
 -->
 
-- 🔭 I’m currently working on implementing DFA concepts to solve real-world pattern recognition problems
+- 🔭 I’m currently exploring AI-driven decision and response models for IoT ecosystems.
 
-- 🌱 I’m currently learning **Computation Theory, Operational Semantics, Lean/Agile Software Development**
+- 🌱 I’m currently learning **Operating Systems, Cloud Computing, Lean/Agile Software Development**
 
 - 👨‍💻 All of my projects are available at [...](...)
 
